@@ -1,7 +1,6 @@
-# README file on the cooking
-For queries, please email: [amankc@u.boisestate.edu](mailto:amankc@u.boisestate.edu)
- 
-## Brief Overview of the Research and use of Scientific Computing
+## Terminus ablation calculation and analysis
+
+For queries, email: [amankc@u.boisestate.edu](mailto:amankc@u.boisestate.edu)
 
 The datasets and methodologies used to construct the terminus ablation time series are illustrated in Fig. 2.
 
