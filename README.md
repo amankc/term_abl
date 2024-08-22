@@ -2,8 +2,14 @@
 
 For queries, email: [amankc@u.boisestate.edu](mailto:amankc@u.boisestate.edu)
 
-The datasets and methodologies used to construct the terminus ablation time series are illustrated in Fig. 2.
+The datasets and methodologies used to construct the terminus ablation time series are illustrated in Fig. 1.\
+
+![Alt text](Updated_Main_flowchart.png)
+Figure 1. Flowchart describing the methodology used to calculate terminus ablation. Rounded rectangles show inputs, intermediate outputs,
+and final output. Angular gray rectangles show the mathematical processes and purple rectangles show the processes applied to satellite
+images. Orange rectangles show data from external sources
 
 ![Alt text](Principle.png)
-
-For the research, I am focusing on the source of these freshwater sources i.e. Glaciers. We lack understanding on the precise timing of the iceberg discharge as it deviates from flux estimates due to the stochastic nature of iceberg calving. The above figure depict the principle that I would be using to get the estimates in terminus ablation using both discharge values and near terminus mass change incorporating terminus changes. 
+Figure 2: Schematic sketch showing glacier terminus ablation. Schematic sketch showing glacier terminus ablation. The green terminus
+position shows glacier advance, blue shows glacier retreat and solid black shows no change in terminus. Solid orange line shows a stationary
+gate used to calculate ice discharge. Here, ∆M/∆t is change in terminus over time, A_terminus is Terminus Ablation and U is the velocity.
